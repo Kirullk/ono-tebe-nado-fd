@@ -40,12 +40,7 @@ body {
 }
 
 .header__links-list-item {
-    
-}
-
-.header__links-list-item {
     list-style: circle;
-    
 }
 
 
@@ -120,7 +115,6 @@ body {
 
 
 .overlay {
-    
     position: absolute;
     background-color: rgb(0, 0, 0, 0.6);
     top: 0;
@@ -194,25 +188,19 @@ body {
     padding: 12px 32px 11px 31px;
 }
 
-
-
-
-
-
-
 .lots {
     margin: 180px 24px 120px;
 }
 
 .lots__heading {
+    margin: 0 891px 27px 40px;
     font-family: Raleway, serif;
     font-weight: 700;
     font-size: 40px;
     line-height: 100%;
     text-transform: uppercase;
     color: #000000;
-
-    margin: 0 891px 27px 40px;
+    
 
 }
 
@@ -380,8 +368,6 @@ body {
     line-height: 113%;
     max-width: 240px;
 }
-
-
 
 .footer__menu-link {
     border-bottom: 1px solid #000000;
