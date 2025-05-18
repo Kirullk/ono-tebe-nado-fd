@@ -39,9 +39,7 @@ body {
     margin-left: 4px;
 }
 
-.header__links-list-item {
-    list-style: circle;
-}
+
 
 
 .header__links-list-item_no-bullit {
@@ -106,6 +104,7 @@ body {
 .cover {
     position: relative;
     background-image: url(../images/cover.jpg);
+
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: center;
@@ -158,6 +157,7 @@ body {
     height: 51px;
     display: flex;
     flex-direction: row;
+
     justify-content: space-between; 
     z-index: 3;
 }
