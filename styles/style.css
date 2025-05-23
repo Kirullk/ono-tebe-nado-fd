@@ -156,7 +156,7 @@ body {
 }
 
 .cover__description-text {
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 22px;
     line-height: 28px;
@@ -169,7 +169,7 @@ body {
 }
 
 .bet-button {
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-weight: 500;
     font-size: 22px;
     line-height: 100%;
@@ -186,8 +186,8 @@ body {
 }
 
 .lots__heading {
+    font-family: Raleway, sans-serif;
     margin: 0 891px 27px 40px;
-    font-family: Raleway, serif;
     font-weight: 700;
     font-size: 40px;
     line-height: 100%;
@@ -249,7 +249,7 @@ body {
 }
 
 .card__title {
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 22px;
     line-height: 120%;
@@ -261,7 +261,7 @@ body {
 }
 
 .card__text {
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 120%;
@@ -271,8 +271,8 @@ body {
 }
 
 .lots__look-more-link {
+    font-family: Raleway, sans-serif;
     margin: 0 820px 0 40px;
-    font-family: Raleway;
     font-weight: 400;
     font-size: 20px;
     line-height: 100%;
@@ -311,7 +311,7 @@ body {
 }
 
 .about__title {
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 40px;
     line-height: 100%;
@@ -324,7 +324,7 @@ body {
 }
 
 .about__text {
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
@@ -352,8 +352,8 @@ body {
 }
 
 .footer__menu-list-item {
+    font-family: Raleway, sans-serif;
     text-align: center;
-    font-family: Raleway;
     font-weight: 400;
     font-size: 18px;
     line-height: 113%;
