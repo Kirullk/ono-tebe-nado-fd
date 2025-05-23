@@ -104,7 +104,6 @@ body {
 .cover {
     position: relative;
     background-image: url(../images/cover.jpg);
-
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: center;
@@ -157,8 +156,7 @@ body {
     height: 51px;
     display: flex;
     flex-direction: row;
-
-    justify-content: space-between; 
+    justify-content: space-between;
     z-index: 3;
 }
 
